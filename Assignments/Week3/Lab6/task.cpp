@@ -2,6 +2,8 @@
 
 Your task
     Your program should perform the following steps:
+        0. Rename this file to LineNumbers.cpp
+        
         1. Prompt the user to enter the name of an input file that
         contains the text to which line numbers will be added. Open the named file
         for reading.
