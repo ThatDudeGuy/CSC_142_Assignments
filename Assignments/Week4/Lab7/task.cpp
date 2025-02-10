@@ -1,7 +1,9 @@
 /*
 
 This program will make use of randomly generated integers. The way to use random
-    numbers in Java was shown in today's class, and is summarized here:
+    numbers in C++ was shown in today's class, and is summarized here:
+
+    0. Rename this file to Even.cpp
     
     - Detecting Odd and Even Numbers
         Remember: any number 𝑛 is an even number if 𝑛 is evenly divisible by two. In other
