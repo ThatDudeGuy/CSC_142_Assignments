@@ -1,6 +1,8 @@
 /*
 
 Your task
+    0. Rename file to PrimeFactorial.cpp
+
     Write a program that implements the following pseudocode:
     main():
         - Generate a random integer less than 50.
