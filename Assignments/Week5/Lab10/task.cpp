@@ -19,9 +19,6 @@ Your task 1:
 
         - Diagram for the Book class:
 
-            ** REMEMBER: If you choose to declare and define your class in a single header file
-                            you must mark all methods 
-
             * Anything marked with " — " is private *
             * Anything marked with " + " is public *
             * When you see a colon " : ", anything to the left of the colon is a name
